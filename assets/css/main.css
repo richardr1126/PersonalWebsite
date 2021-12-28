@@ -2381,8 +2381,8 @@ input, select, textarea {
 			border-right: 0;
 		}
 
-			table tbody tr:nth-child(2n + 1) {
-				background-color: #f7f7f7;
+			table tbody tr {
+				background-color: #ffffff;
 			}
 
 		table td {
@@ -3221,3 +3221,24 @@ input, select, textarea {
 			}
 
 	}
+
+
+
+.skills {
+	text-align: right;
+	padding: 0.15rem;
+	padding-right: 1rem;
+	color: white;
+	border-top-left-radius: 8px;
+	border-bottom-left-radius: 8px;
+}
+
+.html {width: 100%; background-color: #49bf9d;}
+.css {width: 60%; background-color: #49bf9d;}
+.js {width: 80%; background-color: #49bf9d;}
+.nodejs {width: 100%; background-color: #49bf9d;}
+.express {width: 100%; background-color: #49bf9d;}
+.postgresql {width: 80%; background-color: #49bf9d;}
+.cplusplus {width: 80%; background-color: #49bf9d;}
+.java {width: 60%; background-color: #49bf9d;}
+.swift {width: 60%; background-color: #49bf9d;}
