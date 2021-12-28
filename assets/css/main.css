@@ -2373,6 +2373,7 @@ input, select, textarea {
 	table {
 		margin: 0 0 2em 0;
 		width: 100%;
+		
 	}
 
 		table tbody tr {
@@ -2387,6 +2388,7 @@ input, select, textarea {
 
 		table td {
 			padding: 0.75em 0.75em;
+			
 		}
 
 		table th {
@@ -2497,7 +2499,7 @@ input, select, textarea {
 		input[type="reset"].fit,
 		input[type="button"].fit,
 		.button.fit {
-			min-width: 0;
+			min-width: 0px;
 			width: 100%;
 		}
 
@@ -2686,7 +2688,7 @@ input, select, textarea {
 	#main {
 		margin-left: 35%;
 		max-width: 54em;
-		padding: 8em 4em 4em 4em;
+		padding: 4em 4em 4em 4em;
 		width: calc(100% - 35%);
 	}
 
@@ -3030,7 +3032,7 @@ input, select, textarea {
 			#main {
 				margin-left: 30%;
 				max-width: none;
-				padding: 6em 3em 3em 3em;
+				padding: 3em 3em 3em 3em;
 				width: calc(100% - 30%);
 			}
 
@@ -3112,7 +3114,7 @@ input, select, textarea {
 
 			#main {
 				margin: 0;
-				padding: 6em 4em;
+				padding: 2em 4em;
 				width: 100%;
 			}
 
