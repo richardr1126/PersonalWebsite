@@ -4,6 +4,15 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+if ($(window).width() < 500) {
+	document.getElementById('cuImage').style.width = '3rem';
+	document.getElementById('cuImage').style.height = '3rem';
+	document.getElementById('education').style.width = '100%';
+	document.getElementById('main').style.width = '100%';
+	document.getElementById('education').style.marginLeft = '0px';
+	document.getElementById('educationTitle').style.marginLeft = '0px';
+}
+
 (function($) {
 
 	var $window = $(window),
