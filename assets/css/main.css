@@ -3250,6 +3250,16 @@ body.is-touch .poptrox-popup .closer {
   border-bottom-left-radius: 8px;
 }
 
+.scala {
+  width: 60%;
+  background-color: #49bf9d;
+}
+
+.python {
+  width: 80%;
+  background-color: #49bf9d;
+}
+
 .html {
   width: 100%;
   background-color: #49bf9d;
@@ -17454,63 +17464,6 @@ body.is-touch .poptrox-popup .closer {
       margin-left: 0px;
       padding-left: 0px;
     }
-  }
-
-  .skills {
-    text-align: right;
-    padding: 0.15rem 1rem 0.15rem 0.15rem;
-    color: rgb(255, 255, 255);
-    border-top-left-radius: 8px;
-    border-bottom-left-radius: 8px;
-  }
-
-  .html {
-    width: 100%;
-    background-color: rgb(74, 191, 158);
-  }
-
-  .css {
-    width: 60%;
-    background-color: rgb(74, 191, 158);
-  }
-
-  .js {
-    width: 80%;
-    background-color: rgb(74, 191, 158);
-  }
-
-  .nodejs {
-    width: 100%;
-    background-color: rgb(74, 191, 158);
-  }
-
-  .express {
-    width: 100%;
-    background-color: rgb(74, 191, 158);
-  }
-
-  .postgresql {
-    width: 80%;
-    background-color: rgb(74, 191, 158);
-  }
-
-  .cplusplus {
-    width: 80%;
-    background-color: rgb(74, 191, 158);
-  }
-
-  .java {
-    width: 60%;
-    background-color: rgb(74, 191, 158);
-  }
-
-  .swift {
-    width: 60%;
-    background-color: rgb(74, 191, 158);
-  }
-
-  #skillsTable .container {
-    background-color: rgb(50, 50, 50);
   }
 
 }
