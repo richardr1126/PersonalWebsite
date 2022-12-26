@@ -3251,7 +3251,7 @@ body.is-touch .poptrox-popup .closer {
 }
 
 .scala {
-  width: 60%;
+  width: 80%;
   background-color: #49bf9d;
 }
 
@@ -3271,8 +3271,9 @@ body.is-touch .poptrox-popup .closer {
 }
 
 .js {
-  width: 80%;
+  width: 100%;
   background-color: #49bf9d;
+  border-radius: 0.5rem;
 }
 
 .nodejs {
